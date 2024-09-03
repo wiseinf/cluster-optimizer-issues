@@ -37,9 +37,10 @@ For feature requests or suggestions for improvements, please use the [New Issue]
 ## Contact and Support
 
 For questions or further assistance, you can reach out to the development team through the following channels:
-- **Facebook Group:** [Join our Facebook Group]((https://www.facebook.com/groups/clusteroptimizer))
-- **Email:** help@wiseinf.com
-- **Website:** [Cluster Optimizer](https://www.wiseinf.com)
+- **Facebook Group:** [Join our Facebook Group](https://www.facebook.com/groups/clusteroptimizer)
+- **Slack**: [Slack Group](http://clusteroptimizer.slack.com)
+- **Email**: business@wiseinf.com
+- **Website**: [Cluster Optimizer](https://www.wiseinf.com)
 
 ## License
 
